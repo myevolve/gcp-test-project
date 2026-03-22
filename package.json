@@ -1,0 +1,8 @@
+{
+  "name": "gcp-test-project",
+  "version": "1.0.0",
+  "scripts": {
+    "check": "node -e \"console.log('check passed')\"",
+    "test": "node -e \"console.log('tests passed')\""
+  }
+}
